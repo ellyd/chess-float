@@ -1,0 +1,91 @@
+.board {
+	width: 975px;
+	height: 805px;
+	margin: 0 auto;
+	background: url(../img/backgr.jpg) no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.chess-w,
+.chess-b {
+	width: 65px;
+	height: 65px;
+	display: inline-block;
+	list-style-type: none;
+}
+
+.chess-w {
+	background: url(../img/oval.png) no-repeat;
+	background-color: #fcefa6;
+	border: 1px solid #000;
+	background-position: center;
+	background-size: 60%;
+	border-radius: 50px;
+}
+
+.chess-b {
+	background: url(../img/oval2.png) no-repeat;
+	background-color: #3e8266;
+	border: 1px solid #fff;
+	background-position: center;
+	background-size: 60%;
+	border-radius: 50px;
+}
+
+.left-1 {
+	float: left;
+	margin: 0 0 10px 65px;
+}
+
+.left-2 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-3 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-4 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-5 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-6 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-7 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.left-8 {
+	float: left;
+	margin: 0 0 10px 34px;
+}
+
+.top-1 {
+	margin-top: 75px;
+}
+
+
+.top-2 {
+	margin-top: 10px;
+}
+
+.top-3 {
+	margin-top: 340px;
+}
+
+.top-4 {
+	margin-top: 10px;
+}
