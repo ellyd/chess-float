@@ -12,7 +12,6 @@
 	width: 65px;
 	height: 65px;
 	display: inline-block;
-	list-style-type: none;
 }
 
 .chess-w {
@@ -40,37 +39,37 @@
 
 .left-2 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 165px;
 }
 
 .left-3 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .left-4 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .left-5 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .left-6 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .left-7 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .left-8 {
 	float: left;
-	margin: 0 0 10px 34px;
+	margin: 0 0 10px 134px;
 }
 
 .top-1 {
@@ -83,9 +82,17 @@
 }
 
 .top-3 {
-	margin-top: 340px;
+	margin-top: 5px;
 }
 
 .top-4 {
-	margin-top: 10px;
+	margin-top: 174px;
+}
+
+.top-5 {
+	margin-top: 10px;	
+}
+
+.top-6 {
+	margin-top: 10px;	
 }
